@@ -62,14 +62,6 @@ A modern and secure cloud-based file storage application built using <b>Next.js<
 
 ---
 
-## 📸 Screenshots
-
-
-| Dashboard | Upload Page |
-|----------|-------------|
-
----
-
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone Repo
