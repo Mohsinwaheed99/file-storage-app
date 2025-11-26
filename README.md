@@ -1,9 +1,4 @@
 <br />
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x200?text=File+Storage+App+Banner" alt="Project Banner">
-</p>
-
 <h1 align="center">📁 File Storage App</h1>
 
 <p align="center">
